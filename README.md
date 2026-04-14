@@ -1,6 +1,5 @@
 Built a real-time messaging application using Flutter and Firebase, focusing on performance and user experience.
 
-GitHub: https://github.com/karimmohamed0270/Chat-App
 
 Key Features:
 - Secure user authentication using Firebase Authentication
